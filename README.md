@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/SidakSethi-Singh/SidakSethi-Singh/main/profile_circular.png" width="150" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+%2B+AI-powered+products;Exploring+SaaS%2C+automation+%26+LLM+tooling;Open+to+internships+and+placements+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+%2B+AI-powered+products;Exploring+SaaS%2C+automation+%26+LLM+tooling;Open+to+internships+and+placements+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
