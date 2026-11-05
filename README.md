@@ -12,33 +12,61 @@
   <img src="https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=4ade80&labelColor=black" alt="Followers" />
 </p>
 
-### 🏙️ The city I built this year
+## ♟️ Sidak's Open Chess Tournament
 
-<!-- The city image appears after you run the workflow once: Actions tab → "GitHub-Profile-3D-Contrib" → Run workflow. It rebuilds daily from your real contribution graph. -->
+This is an open chess tournament where ANYONE can play. That's the fun part.
+It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph — the city I built this year" />
-</p>
+<!-- BEGIN CHESS BOARD -->
+(The board appears here once a game starts — click "Start a new game" below.)
+<!-- END CHESS BOARD -->
 
-<p align="center"><i>Every building is a day I shipped code — taller means more commits that day. A whole year of work, as a skyline. Rebuilt daily by GitHub Actions.</i></p>
+**It's your turn to move! Choose one from the following table**
+
+<!-- BEGIN MOVES LIST -->
+(After you start a game, the legal moves appear here — click one to play.)
+<!-- END MOVES LIST -->
+
+**[♟️ Start a new game](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?title=Chess%3A+Start+new+game)**
+
+#### How it works
+
+When you click on a move link and submit a new issue, a GitHub Action runs a small Python script that plays the move, updates this README and commits the change. Anyone can play — one move per person, no two moves in a row.
+
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues) and I will try to fix it as soon as possible :D
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+
+<!-- BEGIN LAST MOVES -->
+(No moves yet — start a game above.)
+<!-- END LAST MOVES -->
+
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+
+<!-- BEGIN TOP MOVES -->
+(No moves yet — be the first.)
+<!-- END TOP MOVES -->
+
+</details>
+
+---
+
+Chess bot: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) (MIT) — the engine behind this board.
 
 ### 🙋‍♂️ Who I Am
 
-```typescript
-const sidak = {
-  title: "B.Tech CS Student (3rd Year)",
-  role: "Full-Stack & AI Developer",
-  location: "Shimla, Himachal Pradesh, India",
-  stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js"],
-  currentlyBuilding: "Ledgerly — a zero-cost billing SaaS",
-  launchedProjects: [
-    "SehatSetu — multilingual AI symptom triage",
-    "PermitGrow", "LawSaathi", "2Care.ai voice agent"
-  ],
-  status: "Actively seeking internships & placements 🎯",
-  openTo: ["Internships", "Freelance", "Collaboration", "Full-time roles"],
-};
-```
+- 🎓 B.Tech CS (3rd Year), UIT, Himachal Pradesh University
+- 💻 Full-Stack & AI Developer
+- 📍 Shimla, Himachal Pradesh, India
+- 🛠️ JavaScript · TypeScript · Python · React · Next.js · Node.js
+- 🔨 Currently building: Ledgerly — a zero-cost billing SaaS
+- 🚀 Launched: SehatSetu, PermitGrow, LawSaathi, 2Care.ai voice agent
+- 🎯 Actively seeking internships & placements
+- 🤝 Open to: Internships, Freelance, Collaboration, Full-time roles
 
 ### 🚀 Featured Projects
 
