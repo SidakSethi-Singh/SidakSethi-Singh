@@ -1,18 +1,16 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=220&section=header&text=Hi%20There,%20I'm%20Sidak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descAlign=50)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Hi%20There,%20I'm%20Sidak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descAlign=50" width="100%"/>
-<img src="https://raw.githubusercontent.com/SidakSethi-Singh/SidakSethi-Singh/main/profile_circular.png" width="150" />
+<p align="center">
+  <img src="anime-avatar.png" width="180" height="180" alt="Sidak Singh — anime avatar" />
+</p>
 
- 💻 Building full-stack + AI-powered products · Exploring SaaS, automation & LLM tooling · Open to internships 🚀
+<p align="center">💻 Building full-stack + AI-powered products · Exploring SaaS, automation & LLM tooling · Open to internships 🚀</p>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SidakSethi-Singh&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=7dd3fc&labelColor=black)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-4ADE80?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=SidakSethi-Singh&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=4ade80&labelColor=black" alt="Followers" />
+</p>
 
 ### 🙋‍♂️ Who I Am
 
@@ -32,91 +30,83 @@ const sidak = {
 };
 ```
 
-<br/>
-
 ### 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SidakSethi-Singh/sentry_intel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=sentry_intel&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Sentry Intel" /></a>
+  <a href="https://github.com/SidakSethi-Singh/thermal-border-surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=thermal-border-surveillance&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Thermal Border Surveillance" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SidakSethi-Singh/sehatsetu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=sehatsetu&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="SehatSetu" /></a>
+  <a href="https://github.com/SidakSethi-Singh/LawSathi-Rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=LawSathi-Rag&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="LawSaathi" /></a>
+</p>
 
-<a href="https://github.com/SidakSethi-Singh/Ledgerly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=Ledgerly&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/SidakSethi-Singh/SehatSetu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=SehatSetu&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-</div>
-
-| Project | Layer | Technology | Links |
-|---|---|---|---|
-| **Ledgerly** | Full-stack | Next.js, SQLite, Nodemailer, Mock Payments | [Repo](https://github.com/SidakSethi-Singh/Ledgerly) |
-| **SehatSetu** | Full-stack + AI | Next.js, Claude API, Multilingual NLP | [Repo](https://github.com/SidakSethi-Singh/SehatSetu) |
-
-<br/>
+| Project | What it is | Stack |
+|---|---|---|
+| **Sentry Intel** | AI open-source threat-intelligence dashboard | TypeScript, RAG, Groq |
+| **Thermal Border Surveillance** | YOLOv8 person detection + ByteTrack, 98% precision, 60 FPS | Python, YOLOv8 |
+| **SehatSetu** | Multilingual AI symptom triage with a deterministic red-flag rule engine | Next.js, Claude API |
+| **LawSaathi** | RAG legal assistant over verified Indian legal sources | Python, RAG, NVIDIA NIM |
+| **AgentProof** | Multilingual LLM agent evaluation harness (English / Hindi / Punjabi) | Python |
+| **Ledgerly** | Zero-cost billing SaaS | Next.js, SQLite |
+| **simplify-track-app** | React Native expense tracker | React Native, Expo |
 
 ### 🛠️ Tech Stack
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
+
+![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark)
 
 **Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark)
 
 **Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,vercel,git,github&theme=dark" />
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,vercel,git,github&theme=dark)
 
 **Cloud / DB**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase&theme=dark" />
+
+![Cloud](https://skillicons.dev/icons?i=postgres,sqlite,firebase&theme=dark)
 
 **AI / Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Claude%20API-7DD3FC?style=for-the-badge&logo=anthropic&logoColor=black" />
-<img src="https://img.shields.io/badge/Google%20Antigravity-7DD3FC?style=for-the-badge&logoColor=black" />
 
-<br/><br/>
+![AI](https://skillicons.dev/icons?i=vscode,figma&theme=dark)
+![Claude API](https://img.shields.io/badge/Claude%20API-4ADE80?style=for-the-badge&logo=anthropic&logoColor=black)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4ADE80?style=for-the-badge&logoColor=black)
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SidakSethi-Singh&show_icons=true&theme=nord&border_color=4ade80&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidakSethi-Singh&layout=compact&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SidakSethi-Singh&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidakSethi-Singh&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="38%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SidakSethi-Singh&theme=nord&border=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&background=0d1117" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SidakSethi-Singh&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=SidakSethi-Singh&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" width="60%"/>
+### 🏙️ The city I built this year
 
-<br/><br/>
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph — the city I built this year" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SidakSethi-Singh&theme=nord&no-frame=true&no-bg=true&column=7" width="90%"/>
+<p align="center"><i>Every building is a day I shipped code — taller means more commits that day. Rebuilt daily by GitHub Actions.</i></p>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SidakSethi-Singh&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidakSethi-Singh&theme=nord&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" alt="Contribution activity graph" />
+</p>
 
 ### 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SidakSethi-Singh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sidak-sethi-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<a href="https://github.com/SidakSethi-Singh">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=120&section=footer&animation=twinkling)
