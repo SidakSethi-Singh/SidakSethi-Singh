@@ -12,89 +12,33 @@
   <img src="https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=4ade80&labelColor=black" alt="Followers" />
 </p>
 
-## ♟️ Sidak's Open Chess Tournament
+### 🕹️ Space Shooter
 
-This is an open chess tournament where ANYONE can play. That's the fun part.
-It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
+<!-- The game GIF appears after you run the workflow once: Actions tab → "Update Space Shooter Game" → Run workflow. It rebuilds daily from your real contribution graph. -->
 
-<!-- BEGIN CHESS BOARD -->
-|   | A | B | C | D | E | F | G | H |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
-<!-- END CHESS BOARD -->
+<p align="center">
+  <img src="game.gif" alt="Space Shooter — my GitHub contributions as a game" />
+</p>
 
-**It's your turn to move! Choose one from the following table**
-
-<!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!) |
-| :----: | :---------------------- |
-| **A2** | [A3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A4) |
-| **B1** | [A3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+C3) |
-| **B2** | [B3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B4) |
-| **C2** | [C3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C2+to+C3), [C4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C2+to+C4) |
-| **D2** | [D3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D2+to+D3), [D4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D2+to+D4) |
-| **E2** | [E3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E3), [E4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E4) |
-| **F2** | [F3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F2+to+F3), [F4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F2+to+F4) |
-| **G1** | [F3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+F3), [H3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+H3) |
-| **G2** | [G3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G3), [G4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G4) |
-| **H2** | [H3](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
-<!-- END MOVES LIST -->
-
-**[♟️ Start a new game](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues/new?title=Chess%3A+Start+new+game)**
-
-#### How it works
-
-When you click on a move link and submit a new issue, a GitHub Action runs a small Python script that plays the move, updates this README and commits the change. Anyone can play — one move per person, no two moves in a row.
-
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/SidakSethi-Singh/SidakSethi-Singh/issues) and I will try to fix it as soon as possible :D
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `Start game` | [ @SidakSethi-Singh](https://github.com/SidakSethi-Singh) |
-
-<!-- END LAST MOVES -->
-
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-
-<!-- END TOP MOVES -->
-
-</details>
-
----
-
-Chess bot: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) (MIT) — the engine behind this board.
+<p align="center"><i>My contributions, as a game. Every block is a real day I shipped code — the busier the day, the tougher the enemy. The ship fights my actual contribution graph, rebuilt daily by GitHub Actions.</i></p>
 
 ### 🙋‍♂️ Who I Am
 
-- 🎓 B.Tech CS (3rd Year), UIT, Himachal Pradesh University
-- 💻 Full-Stack & AI Developer
-- 📍 Shimla, Himachal Pradesh, India
-- 🛠️ JavaScript · TypeScript · Python · React · Next.js · Node.js
-- 🔨 Currently building: Ledgerly — a zero-cost billing SaaS
-- 🚀 Launched: SehatSetu, PermitGrow, LawSaathi, 2Care.ai voice agent
-- 🎯 Actively seeking internships & placements
-- 🤝 Open to: Internships, Freelance, Collaboration, Full-time roles
+```typescript
+const sidak = {
+  title: "B.Tech CS Student (3rd Year)",
+  role: "Full-Stack & AI Developer",
+  location: "Shimla, Himachal Pradesh, India",
+  stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js"],
+  currentlyBuilding: "Ledgerly — a zero-cost billing SaaS",
+  launchedProjects: [
+    "SehatSetu — multilingual AI symptom triage",
+    "PermitGrow", "LawSaathi", "2Care.ai voice agent"
+  ],
+  status: "Actively seeking internships & placements 🎯",
+  openTo: ["Internships", "Freelance", "Collaboration", "Full-time roles"],
+};
+```
 
 ### 🚀 Featured Projects
 
