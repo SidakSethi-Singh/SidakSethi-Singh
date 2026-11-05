@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=220&section=header&text=Hi%20There,%20I'm%20Sidak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descAlign=50)
+![Header](header.svg)
 
 <p align="center">
   <img src="anime-avatar.png" width="140" height="140" alt="Sidak Singh" />
@@ -43,12 +43,12 @@ const sidak = {
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SidakSethi-Singh/sentry_intel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=sentry_intel&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Sentry Intel" /></a>
-  <a href="https://github.com/SidakSethi-Singh/thermal-border-surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=thermal-border-surveillance&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Thermal Border Surveillance" /></a>
+  <a href="https://github.com/SidakSethi-Singh/sentry_intel"><img src="https://opengraph.githubassets.com/1/SidakSethi-Singh/sentry_intel" width="400" alt="Sentry Intel" /></a>
+  <a href="https://github.com/SidakSethi-Singh/thermal-border-surveillance"><img src="https://opengraph.githubassets.com/1/SidakSethi-Singh/thermal-border-surveillance" width="400" alt="Thermal Border Surveillance" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SidakSethi-Singh/sehatsetu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=sehatsetu&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="SehatSetu" /></a>
-  <a href="https://github.com/SidakSethi-Singh/LawSathi-Rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SidakSethi-Singh&repo=LawSathi-Rag&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="LawSaathi" /></a>
+  <a href="https://github.com/SidakSethi-Singh/sehatsetu"><img src="https://opengraph.githubassets.com/1/SidakSethi-Singh/sehatsetu" width="400" alt="SehatSetu" /></a>
+  <a href="https://github.com/SidakSethi-Singh/LawSathi-Rag"><img src="https://opengraph.githubassets.com/1/SidakSethi-Singh/LawSathi-Rag" width="400" alt="LawSaathi" /></a>
 </p>
 
 | Project | What it is | Stack |
@@ -85,25 +85,6 @@ const sidak = {
 ![Claude API](https://img.shields.io/badge/Claude%20API-4ADE80?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4ADE80?style=for-the-badge&logoColor=black)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidakSethi-Singh&show_icons=true&theme=nord&border_color=4ade80&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidakSethi-Singh&layout=compact&theme=nord&border_color=4ade80&title_color=4ade80&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SidakSethi-Singh&theme=nord&border=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SidakSethi-Singh&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidakSethi-Singh&theme=nord&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" alt="Contribution activity graph" />
-</p>
-
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -111,4 +92,4 @@ const sidak = {
   <a href="https://www.linkedin.com/in/sidak-sethi-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=120&section=footer&animation=twinkling)
+![Footer](footer.svg)
