@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=4ade80&labelColor=black" alt="Followers" />
 </p>
 
-### 🕹️ Space Shooter
+### 🏙️ The city I built this year
 
-<!-- The game GIF appears after you run the workflow once: Actions tab → "Update Space Shooter Game" → Run workflow. It rebuilds daily from your real contribution graph. -->
+<!-- The city image appears after you run the workflow once: Actions tab → "GitHub-Profile-3D-Contrib" → Run workflow. It rebuilds daily from your real contribution graph. -->
 
 <p align="center">
-  <img src="game.gif" alt="Space Shooter — my GitHub contributions as a game" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph — the city I built this year" />
 </p>
 
-<p align="center"><i>My contributions, as a game. Every block is a real day I shipped code — the busier the day, the tougher the enemy. The ship fights my actual contribution graph, rebuilt daily by GitHub Actions.</i></p>
+<p align="center"><i>Every building is a day I shipped code — taller means more commits that day. A whole year of work, as a skyline. Rebuilt daily by GitHub Actions.</i></p>
 
 ### 🙋‍♂️ Who I Am
 
