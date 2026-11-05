@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=220&section=header&text=Hi%20There,%20I'm%20Sidak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="anime-avatar.png" width="180" height="180" alt="Sidak Singh — anime avatar" />
+  <img src="profile_circular.png" width="140" height="140" alt="Sidak Singh" />
 </p>
 
 <p align="center">💻 Building full-stack + AI-powered products · Exploring SaaS, automation & LLM tooling · Open to internships 🚀</p>
@@ -11,6 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=SidakSethi-Singh&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SidakSethi-Singh?style=for-the-badge&color=4ade80&labelColor=black" alt="Followers" />
 </p>
+
+### 🏙️ The city I built this year
+
+<!-- The city image appears after you run the workflow once: Actions tab → "GitHub-Profile-3D-Contrib" → Run workflow. It rebuilds daily from your real contribution graph. -->
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph — the city I built this year" />
+</p>
+
+<p align="center"><i>Every building is a day I shipped code — taller means more commits that day. A whole year of work, as a skyline. Rebuilt daily by GitHub Actions.</i></p>
 
 ### 🙋‍♂️ Who I Am
 
@@ -89,14 +99,6 @@ const sidak = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SidakSethi-Singh&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
-
-### 🏙️ The city I built this year
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph — the city I built this year" />
-</p>
-
-<p align="center"><i>Every building is a day I shipped code — taller means more commits that day. Rebuilt daily by GitHub Actions.</i></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidakSethi-Singh&theme=nord&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" alt="Contribution activity graph" />
