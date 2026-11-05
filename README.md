@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:4ade80&height=220&section=header&text=Hi%20There,%20I'm%20Sidak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="profile_circular.png" width="140" height="140" alt="Sidak Singh" />
+  <img src="anime-avatar.png" width="140" height="140" alt="Sidak Singh" />
 </p>
 
 <p align="center">💻 Building full-stack + AI-powered products · Exploring SaaS, automation & LLM tooling · Open to internships 🚀</p>
